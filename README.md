@@ -9,9 +9,8 @@ sudo apt-get upgrade
 
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-git clone https://github.com/fkjghjfhgkjg45/markdoown
-
-***************
+git clone https://github.com/amirhosseinmohammadpor7/markdoown
+---------------------------------------------------------------
 cd markdoown
 
 chmod +x launch.sh
